@@ -19,7 +19,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_prefix		/usr/X11R6
 %define		_mandir		/usr/X11R6/man
-%define         _htmldir        /usr/share/doc/kde/HTML
+%define		_htmldir	/usr/share/doc/kde/HTML
 
 %description
 Keramik splash screen.
@@ -28,7 +28,7 @@ Keramik splash screen.
 Ekran startowy keramik.
 
 %prep
-%setup  -q -n %{_splash}_splash
+%setup -q -n %{_splash}_splash
 
 %build
 
