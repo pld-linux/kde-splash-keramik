@@ -9,6 +9,7 @@ License:	GPL
 Group:		Themes/Gtk
 #Source0:	http://www.kde-look.org/content/download.php?content=1983
 Source0:	1983-keramik_splash.tgz
+# Source0-md5:	bb9d9ca1e685f61038a7fd4e27d4ec00
 URL:		http://www.kde-look.org/content/show.php?content=1983
 Requires:	kdebase >= 3.0.2-7
 Provides:	kde-splash
