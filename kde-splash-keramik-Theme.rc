@@ -1,0 +1,6 @@
+[KSplash Theme: keramik]
+Name = Transparent Keramik Splash Theme 
+Description = This is a transparent splash screen for KDE with the Keramik window decoration around it
+Engine = Default
+Version = 1
+Icons Flashing = true
