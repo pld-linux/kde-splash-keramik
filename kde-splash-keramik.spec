@@ -4,7 +4,7 @@ Summary:	keramik splash screen
 Summary(pl):	Ekran startowy keramik
 Name:		kde-splash-%{_splash}
 Version:	1
-Release:	2
+Release:	3
 License:	GPL
 Group:		Themes/Gtk
 #Source0:	http://www.kde-look.org/content/download.php?content=1983
@@ -43,4 +43,4 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%{_datadir}/apps/ksplash/pics/*
+%{_datadir}/apps/ksplash/pics
