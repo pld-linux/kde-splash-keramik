@@ -4,9 +4,9 @@ Summary:	keramik splash screen
 Summary(pl):	Ekran startowy keramik
 Name:		kde-splash-%{_splash}
 Version:	1
-Release:	3
+Release:	4
 License:	GPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 #Source0:	http://www.kde-look.org/content/download.php?content=1983
 Source0:	1983-keramik_splash.tgz
 # Source0-md5:	bb9d9ca1e685f61038a7fd4e27d4ec00
