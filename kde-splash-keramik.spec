@@ -27,15 +27,13 @@ Keramik splash screen.
 Ekran startowy keramik.
 
 %prep
-%setup  -q -n %{_splash}_splash
-
-%build
+%setup -q -n %{_splash}_splash
 
 %install
 rm -rf $RPM_BUILD_ROOT
+install -d $RPM_BUILD_ROOT%{_datadir}/apps/ksplash/pics
 
-install -d "$RPM_BUILD_ROOT/%{_datadir}/apps/ksplash/pics"
-install * "$RPM_BUILD_ROOT/%{_datadir}/apps/ksplash/pics"
+install * $RPM_BUILD_ROOT%{_datadir}/apps/ksplash/pics
 
 %clean
 rm -rf $RPM_BUILD_ROOT
