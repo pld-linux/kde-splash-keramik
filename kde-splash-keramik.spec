@@ -18,7 +18,7 @@ Obsoletes:	kde-splash-KDEGirl
 Obsoletes:	kde-splash-default
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define         _htmldir        /usr/share/doc/kde/HTML
+%define		_htmldir	/usr/share/doc/kde/HTML
 
 %description
 Keramik splash screen.
