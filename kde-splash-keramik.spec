@@ -23,7 +23,7 @@ crystal icons and a picture consisting of KDE Logo and a flat monitor
 drawing.
 
 %description -l pl
-Prze¼roczysty ekran startowy z ikonami z motywu crystal oraz dekoracja
+Przezroczysty ekran startowy z ikonami z motywu crystal oraz dekoracja
 okna keramik dooko³a g³ównego obrazka, który sk³ada siê z logo KDE i
 rysunku monitora ciek³okrystalicznego.
 
