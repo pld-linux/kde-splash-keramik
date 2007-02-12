@@ -1,7 +1,7 @@
 %define		_splash		keramik
 
 Summary:	keramik splash screen
-Summary(pl):	Ekran startowy keramik
+Summary(pl.UTF-8):   Ekran startowy keramik
 Name:		kde-splash-%{_splash}
 Version:	1
 Release:	5
@@ -22,10 +22,10 @@ A transparent splash screen with keramik window decoration around it,
 crystal icons and a picture consisting of KDE Logo and a flat monitor
 drawing.
 
-%description -l pl
+%description -l pl.UTF-8
 Przezroczysty ekran startowy z ikonami z motywu crystal oraz dekoracja
-okna keramik dooko≥a g≥Ûwnego obrazka, ktÛry sk≥ada siÍ z logo KDE i
-rysunku monitora ciek≥okrystalicznego.
+okna keramik dooko≈Ça g≈Ç√≥wnego obrazka, kt√≥ry sk≈Çada siƒô z logo KDE i
+rysunku monitora ciek≈Çokrystalicznego.
 
 %prep
 %setup -q -n %{_splash}_splash
