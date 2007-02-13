@@ -1,7 +1,7 @@
 %define		_splash		keramik
 
 Summary:	keramik splash screen
-Summary(pl.UTF-8):   Ekran startowy keramik
+Summary(pl.UTF-8):	Ekran startowy keramik
 Name:		kde-splash-%{_splash}
 Version:	1
 Release:	5
